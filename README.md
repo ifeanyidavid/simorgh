@@ -93,7 +93,7 @@ The page wrapper HOC simply wraps the Article or FrontPage containers with a lay
 
 #### withLoading
 
-The loading HOC checks the value of the loading props, if it is false the Article or FrontPage container is simply returned.
+The loading HOC checks the value of the loading props, if it is false, the Article or FrontPage container is simply returned.
 
 If loading is set to true, the Loading component is returned instead rendering a visual loading view for the user.
 
